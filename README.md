@@ -34,4 +34,5 @@ PhonePe is a leading digital payments platform in India, processing billions of 
 ✅ Data-driven strategies to enhance digital payment penetration  
 
 ## 🖼️ Dashboard Image
-![PhonePe Dashboard](Phonepay.jpg)
+
+![Demo Image](https://github.com/smit012/PhonePe-Transactions-Dashboard/blob/main/Data/Phonepe.jpg)
