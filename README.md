@@ -36,3 +36,13 @@ PhonePe is a leading digital payments platform in India, processing billions of 
 ## 🖼️ Dashboard Image
 
 ![Demo Image](https://github.com/smit012/PhonePe-Transactions-Dashboard/blob/main/Data/Phonepe.jpg)
+
+
+🚀 How to Use
+
+1️⃣ Download the .pbix file and open it in Power BI.
+2️⃣ Connect with your dataset (if required).
+3️⃣ Explore insights using filters and visualizations.
+
+If you find this project helpful, don't forget to ⭐ Star the repo! 😊
+
